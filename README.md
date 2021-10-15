@@ -29,7 +29,7 @@ interface CountryCodes {
 }
 
 export var hadronomyEntity: VariableEntity =  {
-    name: "Pablo Hernández Jiménez",
+    name: "Pablo Hernández Jiménez", // Yep, Hadronomy is just my nick. Just in case :P
     pronouns: ["he", "him", "his"],
     countryCode: "ES",
     languages: ["javascript", "typescript", "csharp", "c", "html", "python", "css"],
