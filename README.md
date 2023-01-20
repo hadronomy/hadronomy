@@ -6,7 +6,7 @@
 
 - :art: Self-proclaimed artist
 
-<b><code>Configuration:</code></b>
+`Configuration:`
 
 ```typescript
 interface VariableEntity {
@@ -29,7 +29,7 @@ interface CountryCodes {
 }
 
 export var hadronomyEntity: VariableEntity =  {
-    name: "Pablo Hernández Jiménez", // Yep, Hadronomy is just my nick. Just in case :P
+    name: "Pablo Hernández Jiménez",
     pronouns: ["he", "him", "his"],
     countryCode: "ES",
     languages: ["javascript", "typescript", "csharp", "c", "html", "python", "css"],
