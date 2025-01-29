@@ -10,7 +10,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=git,react,ts,rust,js,cpp,python,html,css,wasm,docker,prisma,nodejs,tailwind,linux,nix,kubernetes,next,astro,postgres,zig,go,vscode,vite,vitest,tauri,threejs,neovim)](https://skillicons.dev)
 
-<br clear="both">
 
 ### 🌟 My Story (So Far...)
 
@@ -28,7 +27,6 @@ When not communing with my IDE 🧑💻 (though let's be real - it's more of a c
 🎮 Trying one of those steam games I bought and never actualy played  
 📜 Writing stories where the final boss is a memory leak   
 
-<br clear="both">
 
 ### 🌐 Open Source Journey
 ###
