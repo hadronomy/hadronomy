@@ -49,6 +49,6 @@ When not communing with my IDE 🧑💻 (though let's be real - it's more of a c
 🌍 **Portfolio**: [hadronomy.com](https://hadronomy.com) (WIP) | 
 🐦 **Pigeon Post**: [@hadronomy](https://x.com/hadronomy)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/hadronomy)
+<a href='https://ko-fi.com/U7U61A6LQJ' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 </div>
