@@ -46,7 +46,7 @@ When not communing with my IDE 🧑💻 (though let's be real - it's more of a c
 <div align="center">
   
 📫 **Summoning Circle**: [@hadronomy](mailto:hadronomy@gmail.com) | 
-🌍 **Portfolio Portal**: [hadronomy.dev](https://hadronomy.com) (WIP) | 
+🌍 **Portfolio**: [hadronomy.com](https://hadronomy.com) (WIP) | 
 🐦 **Pigeon Post**: [@hadronomy](https://x.com/hadronomy)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/hadronomy)
